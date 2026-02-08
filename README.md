@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, its Vikas kumar madhesia<br><br>Passionate developer()<br>{<br>who loves to code <br><br>};<br><br>Frontend tech(React, Nextjs)<br>Backend tech (Node.js, Express)<br><br><br>i Am currently working at queuebuster as atechnical support engineer
+Hi, its Vikas kumar madhesia<br><br>Passionate developer()<br>{<br>who loves to code <br><br>};<br><br>Frontend tech(React, Nextjs)<br>Backend tech (Node.js, Express)<br><br><br>**I am currently working at queuebuster as a Technical support engineer**
 
 
 ## 🌐 Socials:
